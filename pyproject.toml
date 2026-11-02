@@ -1,0 +1,21 @@
+[project]
+name = "tracelab-image-selector"
+version = "0.1.0"
+description = "Best-of-N image scoring and selection for ComfyUI: keep only the sharpest, most balanced frames from a batch."
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = []
+keywords = ["comfyui", "best-of-n", "image-quality", "aesthetic", "selection"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/FengRuidong/comfyui-image-selector"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "TraceLab Image Selector"
+Icon = ""
