@@ -13,7 +13,7 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/FengRuidong/comfyui-image-selector"
+Repository = "https://github.com/freedom317509/comfyui-image-selector"
 
 [tool.comfy]
 PublisherId = ""

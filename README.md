@@ -40,7 +40,7 @@ KSampler (batch_size=8) ──► Best-of-N 图像优选 ──► SaveImage
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/FengRuidong/comfyui-image-selector.git
+git clone https://github.com/freedom317509/comfyui-image-selector.git
 # 或者直接把本文件夹整个复制进去
 ```
 
